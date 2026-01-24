@@ -22,8 +22,8 @@ const songs = [
         artist: 'NEFFEX',
     },
     {
-        path: 'assets/3.mp3',
-        displayName: 'Intellect',
+        path: 'YTDown.com_YouTube_Media_xTlZ5Sik4BQ_004_360p.mp3',
+        displayName: 'سامي يكتشف الأرقام',
         artist: 'Yung Logos',
     }
 ];
