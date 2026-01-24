@@ -13,7 +13,7 @@ const music = new Audio();
 const songs = [
     {
         path: 'assets/ElevenLabs_Untitled_Project.mp3',
-        displayName: "The Charmer's Call",
+        displayName: "سامي يكتشف الأرقام",
         artist: 'Hanu Dixit',
     },
     {
