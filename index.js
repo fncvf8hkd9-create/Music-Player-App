@@ -12,7 +12,7 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/1.mp3',
+        path: 'assets/ElevenLabs_Untitled_Project.mp3',
         displayName: "The Charmer's Call",
         artist: 'Hanu Dixit',
     },
