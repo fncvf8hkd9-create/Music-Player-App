@@ -17,8 +17,8 @@ const songs = [
         artist: 'Hanu Dixit',
     },
     {
-        path: 'assets/ElevenLabs_Untitled_Project.mp3',
-        displayName: 'u Will Never See Me Coming',
+        path: 'assets/sami.mp3 2.mp3',
+        displayName: 'سابل',
         artist: 'NEFFEX',
     },
     {
