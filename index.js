@@ -12,8 +12,8 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/ElevenLabs_Untitled_Project.mp3',
-        displayName: "سامي يكتشف الأرقام",
+        path: 'assets/sami.mp3 2.mp3',
+        displayName: "سامي",
         artist: 'Hanu Dixit',
     },
     {
