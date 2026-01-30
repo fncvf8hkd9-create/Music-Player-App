@@ -17,7 +17,7 @@ const songs = [
         artist: 'Hanu Dixit',
     },
     {
-        path: 'assets/sami.mp3 2.mp3',
+        path: 'assets/خالد.mp3',
         displayName: 'سابل',
         artist: 'NEFFEX',
     },
