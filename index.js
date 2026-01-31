@@ -12,19 +12,14 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/sami.mp3 2.mp3',
-        displayName: "سامي",
-        artist: 'Hanu Dixit',
     },
     {
         path: 'assets/خالد.mp3',
-        displayName: 'سابل',
+        displayName: ' رمضان اللذي غير قلبه',
         artist: 'NEFFEX',
     },
     {
-        path: 'assets/ElevenLabs_Untitled_Project.mp3',
-        displayName: 'سامي يكتشف الأرقام',
-        artist: 'Yung Logos',
+        
     }
 ];
 
